@@ -1,3 +1,24 @@
+## [1.5.7](https://github.com/itairaz1/israeli-bank-firefly-importer/compare/v1.5.6...v1.5.7) (2025-03-29)
+
+
+### Bug Fixes
+
+* **bump:** bump israeli-bank-scrapers from 5.4.2 to 5.4.4 ([#216](https://github.com/itairaz1/israeli-bank-firefly-importer/issues/216)) ([9dfea97](https://github.com/itairaz1/israeli-bank-firefly-importer/commit/9dfea97ebedc7ede7059f87d30ba6d7050373eb5))
+
+## [1.5.6](https://github.com/itairaz1/israeli-bank-firefly-importer/compare/v1.5.5...v1.5.6) (2025-03-13)
+
+
+### Bug Fixes
+
+* **bump:** bump israeli-bank-scrapers from 5.2.2 to 5.4.0 ([#209](https://github.com/itairaz1/israeli-bank-firefly-importer/issues/209)) ([0fe4f4d](https://github.com/itairaz1/israeli-bank-firefly-importer/commit/0fe4f4d39e61450956cd11e54eb12b5c83b364c6))
+
+## [1.5.5](https://github.com/itairaz1/israeli-bank-firefly-importer/compare/v1.5.4...v1.5.5) (2025-03-13)
+
+
+### Bug Fixes
+
+* **leumi:** update account number validation in manipulate function ([#211](https://github.com/itairaz1/israeli-bank-firefly-importer/issues/211)) ([4a7338b](https://github.com/itairaz1/israeli-bank-firefly-importer/commit/4a7338bc5bd58c5b952ec40cdf70cbabedbfde75))
+
 ## [1.5.4](https://github.com/itairaz1/israeli-bank-firefly-importer/compare/v1.5.3...v1.5.4) (2024-11-29)
 
 
